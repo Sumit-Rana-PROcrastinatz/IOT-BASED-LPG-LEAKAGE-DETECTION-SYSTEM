@@ -20,6 +20,8 @@ facilities among others. Such sensors get developed with the purpose of detectin
 high pollution in natural habitats. Sensor readings of the IoT set of sensors is fed to a 
 central control unit that receives and relays the signals to the network. This, being the 
 system's hub, gives it the capability to receive and relay data as well. 
+
+
 PURPOSE OF THE PROJECT:  
 The system detects leaks or abnormal levels and it responds immediately by sending 
 real time leakage levels as well as alerts via email and web application. These alerts 
